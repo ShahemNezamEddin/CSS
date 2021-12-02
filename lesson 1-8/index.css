@@ -1,0 +1,76 @@
+.one {
+  width: 500px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #882adf;
+}
+.two {
+  width: 500px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #882adf;
+  opacity: 0.5;
+}
+.three {
+  width: 500px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #882adf;
+  opacity: 0.1;
+}
+.omer {
+  width: 400px;
+  height: 400px;
+  background-image: url("./css-assignment-5-8.png");
+  background-repeat: no-repeat;
+}
+.shahem {
+  width: 400px;
+  height: 400px;
+  background-image: url("./css-assignment-5-8.png");
+  background-repeat: repeat-y;
+  background-position: right;
+}
+.nabg {
+  width: 400px;
+  height: 400px;
+  background-image: url("./css-assignment-5-8.png");
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+.nahla {
+  width: 400px;
+  height: 400px;
+  background-image: url("./css-assignment-5-8.png");
+  background-repeat: repeat;
+}
+
+.n,
+.s,
+.a,
+  .o {
+  width: 400px;
+  height: 400px;
+  background-color: grey;
+  background-image: url("./css-assignment-5-8.png");
+  background-repeat: no-repeat;
+}
+
+.o {
+  background-size: 80% 80%;
+}
+.s {
+  background-size: 80% 100%;
+  background-position: right;
+}
+.n {
+  background-size: 100% 80%;
+  background-position: bottom;
+}
+.a {
+  background-size: 50% 50%;
+  background-position: right bottom;
+}
